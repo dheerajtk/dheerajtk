@@ -17,7 +17,8 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:dheerajtk05@gmail.com.com"></a>
+    <a href="mailto:dheerajtk05@gmail.com.com"><img src="https://img.shields.io/badge/📧dheerajtk05@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -31,6 +32,7 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=dheerajtk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
